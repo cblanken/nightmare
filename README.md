@@ -1,4 +1,5 @@
 # Nightmare: Ropped and Screwed
+Roppers Unite!
 
 Nightmare is an Intro to Binary Exploitation / Reverse Engineering course based around Capture the Flag challenges [available here](https://github.com/guyinatuxedo/nightmare) created by GuyInATuxedo. It was named Nightmare by GuyInATuxedo because it's a lot of peoples' nightmare to get hit by weaponized 0days. The skills taught in this course directly translate into doing that type of work. (Additionally, Nightmare is [a really cool song](https://www.youtube.com/watch?v=94bGzWyHbu0)).
 
